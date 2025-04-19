@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow:
+
+
+Sitemap: https://www.pastila.ar/sitemap.xml
+Sitemap: https://www.pastila.ar/sitemap-store.xml
+Sitemap: https://www.pastila.ar/sitemap-feeds.xml

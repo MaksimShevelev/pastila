@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+	<url>
+		<loc>https://www.pastila.ar/</loc>
+		<lastmod>2025-04-17T22:16:03+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://www.pastila.ar/rus</loc>
+		<lastmod>2025-04-17T22:16:03+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://www.pastila.ar/eventos</loc>
+		<lastmod>2025-04-17T22:16:03+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://www.pastila.ar/eventosrus</loc>
+		<lastmod>2025-04-17T22:16:04+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://www.pastila.ar/tienda</loc>
+		<lastmod>2025-04-17T22:16:04+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://www.pastila.ar/tiendarus</loc>
+		<lastmod>2025-04-17T22:16:04+00:00</lastmod>
+	</url>
+</urlset>
